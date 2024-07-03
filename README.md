@@ -1,2 +1,3 @@
 # HWID-Spoofer
-Hardware ID Spoofer for Vanguard(vgk), Easy Anti Cheat (eac), BattleEye (be)
+
+Pretty simple and badly coded HWID Spoofer for Anticheat softwares i made a good epoche ago. Works on all the popuplar anticheats
